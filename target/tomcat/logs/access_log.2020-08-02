@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:22:09:46 +0800] "GET /demo-bstable/ HTTP/1.1" 404 949 http-bio-8888-exec-2 84
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:22:09:50 +0800] "GET /demo-bstable/ HTTP/1.1" 404 949 http-bio-8888-exec-3 4
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:22:10:01 +0800] "GET / HTTP/1.1" 200 9564 http-bio-8888-exec-4 812
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:22:10:01 +0800] "GET /assets/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 114075 http-bio-8888-exec-5 25
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:22:10:01 +0800] "GET /assets/js/jquery.min.js HTTP/1.1" 200 96380 http-bio-8888-exec-1 24
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:22:10:01 +0800] "GET /assets/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 35558 http-bio-8888-exec-6 19
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:22:10:01 +0800] "GET /assets/bootstrap/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 200 23320 http-bio-8888-exec-7 46
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:22:10:02 +0800] "GET /queryPage?sortName=id&sortOrder=desc&pageNo=1&pageSize=10&_=1596377401085 HTTP/1.1" 200 1806 http-bio-8888-exec-8 722
